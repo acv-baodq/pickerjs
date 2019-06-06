@@ -1,5 +1,5 @@
 export default (
-  '<div class="picker" data-picker-action="hide" touch-action="none" tabindex="-1" role="dialog">'
+  '<div class="simplepicker" data-picker-action="hide" touch-action="none" tabindex="-1" role="dialog">'
     + '<div class="picker-dialog" role="document">'
       + '<div class="picker-header">'
         + '<h4 class="picker-title">{{ title }}</h4>'
